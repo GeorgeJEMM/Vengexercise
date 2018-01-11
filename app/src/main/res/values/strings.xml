@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Vengexercise</string>
+    <string name="action_settings">Settings</string>
+    <string name="ojos">ojos</string>
+    <string name="tabla">rerr</string>
+    <string name="bttnFlex">Flexiones</string>
+    <string name="bttnTabla">TABLA</string>
+    <string name="bttnEscalon">Subir Escalon</string>
+    <string name="bttnSentadilla">Sentadilla</string>
+    <string name="bttnAbdo">Abdominales</string>
+    <string name="bttnZancada">Zancada</string>
+    <string name="bttnHabilitar">Habilitar Todo</string>
+    <string name="bttnSuerte">Suerte</string>
+</resources>
